@@ -1,10 +1,26 @@
 # project2
 
-Progress:
+## Description
 
-MB 2020.04.02_2005
+This is my second group project for class.  We built an app that allows for users to build landing pages for sales.
 
-Added branch - mattbell
+## Deployed App
 
-=======
-This project is going to landing page creation
+[MinutePage](https://minutepage-school.herokuapp.com/ "Deployed App on Heroku")
+
+## Technology
+
+### Front-End
+
+HTML,
+CSS,
+Javascript
+
+### Back-End
+
+NodeJs,
+axios,
+bcryptjs,
+express,
+mysql,
+sequelize
