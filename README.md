@@ -1,4 +1,4 @@
-# project2
+# UCSD-CodeBootCamp-minutePage-project2
 
 ## Description
 
